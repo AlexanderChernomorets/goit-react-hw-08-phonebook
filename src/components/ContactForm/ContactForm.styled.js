@@ -1,6 +1,6 @@
 import styled from 'styled-components';
 
-export const Title = styled.h2`
+export const TitleForm = styled.h2`
   margin: 10px;
   display: flex;
   justify-content: center;
@@ -29,7 +29,7 @@ export const FormContact = styled.form`
 export const FormLabel = styled.label`
   display: flex;
   flex-direction: column;
-
+margin-top: 10px;
   color: rgb(52, 52, 52);
   font-weight: normal;
   font-family: Ultra, sans-serif;
