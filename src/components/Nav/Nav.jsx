@@ -1,6 +1,6 @@
 import { UserMenu } from 'components/UserMenu/UserMenu';
 import { useSelector } from 'react-redux';
-import { NavLink } from 'react-router-dom';
+// import { NavLink } from 'react-router-dom';
 import { getIsLoggedIn } from 'redux/user/authSelector';
 import { NavBox, NavigLink, NavList } from './Nav.styled';
 
